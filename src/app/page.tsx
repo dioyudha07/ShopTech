@@ -21,6 +21,7 @@ const formatCurrency = (num: number) => {
 };
 
 const Home: React.FC = () => {
+  console.log("run this project...")
   return (
     <main className="min-h-screen bg-gray-50">
       {/* Header */}
